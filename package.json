@@ -1,32 +1,31 @@
 {
-    "name": "patternlock",
-    "description": "Pattern Lock is a light weight plugin to simulate android like pattern lock mechanism for your hybrid app or for a website. It's easy to configure and style so you can have different type of pattern lock according to your need. Is also provide some methods to use this plugin securely.",
-    "main": "patternLock.js",
-    "author": {
-        "name": "Sudhanshu Yadav",
-        "email": "sudhanshuyadav2@gmail.com"
-    },
-    "version": "1.0.1",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/s-yadav/patternLock"
-    },
-    "ignore": [
-        "patternLock.jquery.json"
-    ],
-    "licenses": "MIT",
-    "bugs": {
-        "url": "https://github.com/s-yadav/patternLock/issues"
-    },
-    "dependencies": {
-        "jquery": ">=1.8.1"
-    },
-    "keywords": [
-        "android-pattern-lock",
-        "pattern",
-        "lock"
-    ],
-    "demo": "http://ignitersworld.com/lab/patternLock.html#example",
-    "docs": "http://ignitersworld.com/lab/patternLock.html#documentation",
-    "homepage": "http://ignitersworld.com/lab/patternLock.html"
+  "author": {
+    "name": "Sudhanshu Yadav",
+    "email": "sudhanshuyadav2@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/s-yadav/patternLock/issues"
+  },
+  "bundleDependencies": false,
+  "demo": "http://ignitersworld.com/lab/patternLock.html#example",
+  "dependencies": {
+    "jquery": ">=1.8.1"
+  },
+  "deprecated": false,
+  "description": "Pattern Lock is a light weight plugin to simulate android like pattern lock mechanism for your hybrid app or for a website. It's easy to configure and style so you can have different type of pattern lock according to your need. Is also provide some methods to use this plugin securely.",
+  "docs": "http://ignitersworld.com/lab/patternLock.html#documentation",
+  "homepage": "http://ignitersworld.com/lab/patternLock.html",
+  "ignore": [
+    "patternLock.jquery.json"
+  ],
+  "keywords": [
+    "android-pattern-lock",
+    "pattern",
+    "lock"
+  ],
+  "licenses": "MIT",
+  "main": "patternLock.js",
+  "name": "patternlock",
+
+  "version": "1.0.1"
 }
